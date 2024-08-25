@@ -96,5 +96,4 @@ If the command `python easiscript_lexer.py hello_world.es` is not behaving as ex
 
 5. **Update the Script**: Ensure that `easiscript_lexer.py` is compatible with the latest version of Python and the EasiScript syntax.
 
-By ensuring your `README.md` is correctly formatted and following these troubleshooting steps, you should be able to get everything working as intended.
 
