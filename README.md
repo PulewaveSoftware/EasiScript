@@ -20,3 +20,81 @@ EasiScript is a beginner-friendly, simplified programming language inspired by P
 4. Run your EasiScript files with the following command:
    ```bash
    python easiscript_lexer.py hello_world.es
+### Usage
+**Printing to Console**
+
+EasiScript provides multiple commands to print output to the console:
+
+print "Hello, World!";
+display "Hello, World!";
+say "Hello, World!";
+show "Hello, World!";
+All of these commands will produce the same output: Hello, World!.
+
+### Variables and Data Types
+
+Assign values directly to variables without explicit type declaration:
+set x = 10;
+set name = "EasiScript";
+### Arithmetic Operations
+
+Simplify arithmetic operations with commands:
+sum add 5 + 3;
+subtract 10 - 4;
+times 2 * 6;
+divide 8 / 2;
+
+Or use:
+
+print 5 + 3;
+print 10 - 4;
+print 2 * 6;
+print 8 / 2;
+
+### Comments
+Comments are initiated with the # symbol:
+**#This is a single-line comment**
+### Control Flow
+Conditional Statements
+Example of an **if** statement:
+
+
+if x > 10:
+    print "x is greater than 10";
+else:
+    print "x is 10 or less";
+
+### Loops
+
+Example of a while loop:
+
+while x < 10:
+    print x;
+    set x = x + 1;
+### Contributing
+To contribute to EasiScript, follow these steps:
+
+Fork the repository.
+Create a new branch for your changes.
+Make your changes and commit them.
+Push your changes to your forked repository.
+Submit a pull request with a clear description of your changes.
+### License
+This project is licensed under the MIT License.
+
+### Troubleshooting EasiScript Execution
+
+If the command `python easiscript_lexer.py hello_world.es` is not behaving as expected, try the following steps:
+
+1. **Check File Paths**: Ensure `easiscript_lexer.py` and `hello_world.es` are in the same directory or provide the correct path.
+
+2. **Verify Python Installation**: Ensure Python 3.6+ is properly installed and added to your system’s PATH.
+
+3. **Check for Errors**: Look for error messages in the terminal when you run the script. These can provide clues about what might be going wrong.
+
+4. **Review Script Code**: Verify that `easiscript_lexer.py` is correctly implemented and can handle `.es` files. 
+
+5. **Update the Script**: Ensure that `easiscript_lexer.py` is compatible with the latest version of Python and the EasiScript syntax.
+
+By ensuring your `README.md` is correctly formatted and following these troubleshooting steps, you should be able to get everything working as intended.
+
