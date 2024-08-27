@@ -79,6 +79,9 @@ Create a new branch for your changes.
 Make your changes and commit them.
 Push your changes to your forked repository.
 Submit a pull request with a clear description of your changes.
+
+### Donation
+My bitcoin address: bc1qnnmhuttvarpxd8kkak4s36053gklm9076l5l37
 ### License
 This project is licensed under the MIT License.
 
