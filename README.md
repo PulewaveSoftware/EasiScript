@@ -1,8 +1,8 @@
 # EasiScript
 ## versions
-- EasiScript v1.0 (not working)
-- EasiScript v1.1 (MAJOR UPDATE! COMING SOON, MADE IN C++!)
-- EasiScriptX 
+- EasiScript v1.0 
+- EasiScript v1.1 
+- [EasiScriptX](https://github.com/PulewaveSoftware/EasiScriptX).
 
 ## Introduction  
 EasiScript is a beginner-friendly, simplified programming language designed to make coding more accessible.  EasiScript offers a flexible syntax that allows developers to choose from multiple commands to perform the same operation. This flexibility increases ease of use and makes the language approachable for beginners and versatile for experienced developers.
